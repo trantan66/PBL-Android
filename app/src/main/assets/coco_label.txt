@@ -3,7 +3,6 @@ Ban ha nam
 Ca gai leo
 Cu gung
 Dau tam
-Dia lien
 Hoac huong
 Hung chanh
 La lot
@@ -14,7 +13,6 @@ Qua quyt
 Rau meo
 Vong vang
 cam thao
-cu san day
 hoa sim
 la san day
 tao tau
